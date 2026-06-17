@@ -1,54 +1,39 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" alt="CodingFeng101 profile hero" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="CodingFeng101 个人主页头图" width="100%" />
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+## 你好，我是冯国栋
 
-### I build tools that turn messy creative work into editable systems.
+我在做开源 AI 工具，重点关注 **图片型 PPT 还原、可编辑文档生成、Codex Skill 工作流**。
 
-I am **fengguodong**, also known as **CodingFeng101**. I work on open-source AI tooling, slide reconstruction, and multi-canvas creation workflows.
-
-My current focus is the space between visual documents and structured editing:
-
-- **Slide Alchemy** rebuilds screenshots, image-based PPTX files, and scanned decks into more editable PowerPoint files.
-- **CanvasAnvil** explores AI-assisted multi-canvas creation for flowcharts, interiors, presentations, posters, infographics, and product storytelling.
-- I care about workflows where AI output is not just pretty, but reusable, editable, and practical.
-
-    </td>
-    <td width="42%" valign="top">
-
-### Current Orbit
-
-```txt
-role        student / builder
-location    China
-school      Jiangxi Normal University
-handle      CodingFeng101
-focus       AI tools, PPT reconstruction, canvas systems
-```
-
-    </td>
-  </tr>
-</table>
+我更关心一件事：AI 生成的结果不能只停留在“看起来不错”，还要能继续编辑、复用、交付。
 
 <br />
 
-## Projects
+### 现在主要在做
+
+| 方向 | 说明 |
+| --- | --- |
+| **Slide Alchemy** | 把幻灯片截图、图片型 PPTX、扫描版演示文稿重建成更可编辑的 PowerPoint 文件 |
+| **CanvasAnvil** | AI 多画布创作平台，面向流程图、室内设计、演示文稿、海报、信息图和产品叙事 |
+| **Codex Skill** | 把复杂流程封装成可以复用、可以执行、可以交付的 AI 工作流 |
+
+<br />
+
+## 代表项目
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CodingFeng101/slide-alchemy">
-        <img src="./assets/project-slide-alchemy.svg" alt="Slide Alchemy project card" width="100%" />
+        <img src="./assets/project-slide-alchemy.svg" alt="Slide Alchemy 项目卡片" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CodingFeng101/CanvasAnvil">
-        <img src="./assets/project-canvas-anvil.svg" alt="CanvasAnvil project card" width="100%" />
+        <img src="./assets/project-canvas-anvil.svg" alt="CanvasAnvil 项目卡片" width="100%" />
       </a>
     </td>
   </tr>
@@ -56,31 +41,15 @@ focus       AI tools, PPT reconstruction, canvas systems
 
 <br />
 
-## What I Like Building
+## 我喜欢做的东西
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Image-first PPT workflows</b>
-      <br />
-      Turning rendered slides back into editable objects, text boxes, and layout structure.
-    </td>
-    <td width="33%" valign="top">
-      <b>Codex skills</b>
-      <br />
-      Packaging repeatable AI workflows so people can run them inside real development environments.
-    </td>
-    <td width="33%" valign="top">
-      <b>Creative tooling</b>
-      <br />
-      Building interfaces and pipelines for design, documents, diagrams, and visual storytelling.
-    </td>
-  </tr>
-</table>
+| 图片优先的 PPT 工作流 | Codex Skills | 创作工具 |
+| --- | --- | --- |
+| 把已经渲染好的幻灯片重新变成文字、形状、图标和布局结构 | 把可重复的 AI 操作整理成真正能跑的工具链 | 为设计、文档、图表和视觉叙事做更实用的编辑系统 |
 
 <br />
 
-## Tech Trail
+## 技术轨迹
 
 <p>
   <img src="https://img.shields.io/badge/Python-2f6f8f?style=for-the-badge&labelColor=162126" alt="Python" />
@@ -93,6 +62,5 @@ focus       AI tools, PPT reconstruction, canvas systems
 <br />
 
 <div align="center">
-  <img src="./assets/activity-strip.svg" alt="Animated activity strip" width="100%" />
+  <img src="./assets/activity-strip.svg" alt="当前工作动态" width="100%" />
 </div>
-

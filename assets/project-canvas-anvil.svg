@@ -7,7 +7,7 @@
   </defs>
   <rect x="1" y="1" width="558" height="258" rx="22" fill="url(#panel)" stroke="#ded8d0"/>
   <text x="32" y="52" fill="#162126" font-family="Satoshi, Geist, Arial, sans-serif" font-size="28" font-weight="800">CanvasAnvil</text>
-  <text x="32" y="86" fill="#5d6d67" font-family="Satoshi, Geist, Arial, sans-serif" font-size="15">AI multi-canvas creation for diagrams and visual stories.</text>
+  <text x="32" y="86" fill="#5d6d67" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15">面向图表和视觉叙事的 AI 多画布创作平台。</text>
   <g transform="translate(44 121)">
     <rect x="0" y="24" width="104" height="58" rx="14" fill="#162126"/>
     <rect x="162" y="0" width="118" height="64" rx="14" fill="#2f6f8f"/>
@@ -22,6 +22,5 @@
     <circle cx="221" cy="32" r="8" fill="#f8faf9"/>
     <circle cx="380" cy="59" r="8" fill="#b45f44"/>
   </g>
-  <text x="32" y="232" fill="#2f6f8f" font-family="Geist Mono, Consolas, monospace" font-size="14">TypeScript / canvas / AI creation</text>
+  <text x="32" y="232" fill="#2f6f8f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14">TypeScript / 画布 / AI 创作</text>
 </svg>
-

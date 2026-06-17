@@ -48,9 +48,9 @@
 
     <g transform="translate(398 46)">
       <text x="0" y="84" fill="#162126" font-family="Satoshi, Geist, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="0">CodingFeng101</text>
-      <text x="4" y="126" fill="#49605a" font-family="Geist Mono, Consolas, monospace" font-size="18">open-source AI tools / editable documents / canvas systems</text>
-      <text x="4" y="194" fill="#23322f" font-family="Satoshi, Geist, Arial, sans-serif" font-size="30" font-weight="700">Rebuilding visual output into things people can actually edit.</text>
-      <text x="4" y="236" fill="#60706b" font-family="Satoshi, Geist, Arial, sans-serif" font-size="19">Slide reconstruction, PowerPoint automation, Codex skills, and creative AI workflows.</text>
+      <text x="4" y="126" fill="#49605a" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18">开源 AI 工具 / 可编辑文档 / 多画布创作系统</text>
+      <text x="4" y="194" fill="#23322f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="30" font-weight="700">把“只能看”的视觉结果，重新变成能编辑的结构。</text>
+      <text x="4" y="236" fill="#60706b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="19">图片型 PPT 还原、PowerPoint 自动化、Codex Skill、创作型 AI 工作流。</text>
 
       <g transform="translate(5 284)">
         <rect x="0" y="0" width="138" height="38" rx="19" fill="#162126"/>
@@ -72,4 +72,3 @@
     </g>
   </g>
 </svg>
-

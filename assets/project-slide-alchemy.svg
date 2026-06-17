@@ -7,7 +7,7 @@
   </defs>
   <rect x="1" y="1" width="558" height="258" rx="22" fill="url(#paper)" stroke="#d8e0dc"/>
   <text x="32" y="52" fill="#162126" font-family="Satoshi, Geist, Arial, sans-serif" font-size="28" font-weight="800">Slide Alchemy</text>
-  <text x="32" y="86" fill="#5d6d67" font-family="Satoshi, Geist, Arial, sans-serif" font-size="15">Image-based slides to editable PowerPoint structure.</text>
+  <text x="32" y="86" fill="#5d6d67" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15">把图片型幻灯片重建成可编辑 PowerPoint。</text>
   <g transform="translate(32 122)">
     <rect x="0" y="0" width="132" height="84" rx="12" fill="#162126"/>
     <rect x="18" y="18" width="72" height="9" rx="4.5" fill="#f8faf9" opacity="0.82"/>
@@ -21,6 +21,5 @@
     <rect x="272" y="40" width="96" height="9" rx="4.5" fill="#162126" opacity="0.34"/>
     <rect x="272" y="62" width="52" height="9" rx="4.5" fill="#b45f44"/>
   </g>
-  <text x="32" y="232" fill="#2f6f8f" font-family="Geist Mono, Consolas, monospace" font-size="14">Python / PPTX / image reconstruction</text>
+  <text x="32" y="232" fill="#2f6f8f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14">Python / PPTX / 图片还原</text>
 </svg>
-
