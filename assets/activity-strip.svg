@@ -1,0 +1,16 @@
+<svg width="1200" height="92" viewBox="0 0 1200 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="90" rx="22" fill="#162126" stroke="#263936"/>
+  <g font-family="Geist Mono, Consolas, monospace" font-size="16" fill="#f8faf9">
+    <text x="38" y="56">currently shaping: slide reconstruction pipelines</text>
+    <text x="500" y="56" opacity="0.68">editable PPTX</text>
+    <text x="680" y="56" opacity="0.68">Codex skills</text>
+    <text x="830" y="56" opacity="0.68">creative AI tools</text>
+  </g>
+  <rect x="1056" y="38" width="84" height="16" rx="8" fill="#2f6f8f">
+    <animate attributeName="x" values="1056;1098;1056" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="1162" cy="46" r="7" fill="#b45f44">
+    <animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
