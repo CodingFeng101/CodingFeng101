@@ -1,9 +1,9 @@
 # 👋 你好，我是冯国栋
 
-![Computer Science Student](https://img.shields.io/badge/🎓_Computer_Science_Student-f6f8fa?style=for-the-badge&labelColor=f6f8fa&color=f6f8fa)
-![Open Source Enthusiast](https://img.shields.io/badge/Open_Source_Enthusiast-f6f8fa?style=for-the-badge&logo=github&logoColor=24292f&labelColor=f6f8fa&color=f6f8fa)
-![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-f6f8fa?style=for-the-badge&labelColor=f6f8fa&color=f6f8fa)
-![Always Learning](https://img.shields.io/badge/📖_Always_Learning-f6f8fa?style=for-the-badge&labelColor=f6f8fa&color=f6f8fa)
+![Computer Science Student](https://img.shields.io/badge/Computer_Science_Student-2563eb?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Open Source Enthusiast](https://img.shields.io/badge/Open_Source_Enthusiast-24292f?style=for-the-badge&logo=github&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI_Builder-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always_Learning-d97706?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 ---
 
@@ -30,6 +30,6 @@
 
 ## 📫 联系我
 
-🐙 GitHub: [@CodingFeng101](https://github.com/CodingFeng101)　　✉️ Email: 2475901487@qq.com　　📍 Location: China
+✉️ Email: fengguodong972@gmail.com
 
 > 静态内容不该永远静态，知识也不该只停留在文本里。
