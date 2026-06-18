@@ -1,0 +1,25 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f7faf9"/>
+      <stop offset="1" stop-color="#eef5f3"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="96" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2f6f8f"/>
+      <stop offset="1" stop-color="#d7a75c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="208" rx="18" fill="url(#panel)" stroke="#d8e4e0"/>
+  <text x="42" y="48" fill="#162126" font-family="Geist Mono, Consolas, monospace" font-size="15">SYSTEM MAP</text>
+  <text x="42" y="84" fill="#2c3f3b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" font-weight="700">Knowledge Systems</text>
+  <text x="42" y="118" fill="#65756f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">知识结构化 · 图谱增强问答 · Human-LLM 协同建模</text>
+  <text x="740" y="84" fill="#2c3f3b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" font-weight="700">Creative Systems</text>
+  <text x="740" y="118" fill="#65756f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">PPT 可编辑化 · 多画布创作 · AI Skill 任务封装</text>
+  <path d="M96 162H1104" stroke="#cbd9d5" stroke-width="2" stroke-linecap="round"/>
+  <path d="M96 162H1104" stroke="url(#pulse)" stroke-width="4" stroke-linecap="round" stroke-dasharray="110 900">
+    <animate attributeName="stroke-dashoffset" values="0;-1010" dur="5.4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="344" cy="162" r="7" fill="#2f6f8f"/>
+  <circle cx="600" cy="162" r="7" fill="#496f5d"/>
+  <circle cx="856" cy="162" r="7" fill="#d7a75c"/>
+</svg>

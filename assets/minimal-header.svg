@@ -1,23 +1,50 @@
-<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#f8faf9"/>
-      <stop offset="1" stop-color="#eef4f1"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.62" stop-color="#172522"/>
+      <stop offset="1" stop-color="#0f1f26"/>
     </linearGradient>
-    <linearGradient id="line" x1="150" y1="0" x2="1060" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2f6f8f" stop-opacity="0.15"/>
-      <stop offset="0.5" stop-color="#2f6f8f"/>
-      <stop offset="1" stop-color="#b45f44" stop-opacity="0.18"/>
+    <linearGradient id="trace" x1="88" y1="0" x2="1098" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78dcca" stop-opacity="0.05"/>
+      <stop offset="0.48" stop-color="#78dcca"/>
+      <stop offset="1" stop-color="#d7a75c" stop-opacity="0.45"/>
     </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#d7fff5" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="148" rx="20" fill="url(#bg)" stroke="#dbe5e1"/>
-  <path d="M710 104C808 68 888 116 984 82C1034 64 1076 48 1120 34" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="710" cy="104" r="4" fill="#2f6f8f"/>
-  <circle cx="984" cy="82" r="4" fill="#496f5d"/>
-  <circle cx="1120" cy="34" r="4" fill="#b45f44"/>
+  <rect x="1" y="1" width="1198" height="258" rx="24" fill="url(#bg)" stroke="#27413c"/>
+  <rect x="1" y="1" width="1198" height="258" rx="24" fill="url(#grid)"/>
+  <path d="M58 204H1142" stroke="#d7fff5" stroke-opacity="0.12"/>
+  <path d="M58 52H352" stroke="#d7fff5" stroke-opacity="0.12"/>
+  <path d="M830 52H1142" stroke="#d7fff5" stroke-opacity="0.12"/>
 
-  <text x="64" y="62" fill="#162126" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="34" font-weight="700">冯国栋</text>
-  <text x="65" y="98" fill="#49605a" font-family="Geist Mono, Consolas, monospace" font-size="17">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="65" y="124" fill="#60706b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">知识图谱 · AI Skill · 可编辑内容生成</text>
+  <g filter="url(#soft)">
+    <rect x="64" y="58" width="308" height="132" rx="18" fill="#0d1619" stroke="#31534c"/>
+    <path d="M92 92H214" stroke="#78dcca" stroke-width="5" stroke-linecap="round"/>
+    <path d="M92 122H306" stroke="#eefbf7" stroke-opacity="0.42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M92 152H260" stroke="#eefbf7" stroke-opacity="0.24" stroke-width="5" stroke-linecap="round"/>
+    <rect x="92" y="168" width="74" height="8" rx="4" fill="#d7a75c">
+      <animate attributeName="width" values="74;132;74" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M418 148C508 76 616 178 706 118C786 64 875 104 949 84C1008 68 1055 62 1120 104" stroke="url(#trace)" stroke-width="4" stroke-linecap="round" fill="none">
+    <animate attributeName="stroke-dasharray" values="18 28;42 18;18 28" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="706" cy="118" r="5" fill="#78dcca"/>
+  <circle cx="949" cy="84" r="5" fill="#d7a75c"/>
+  <circle cx="1120" cy="104" r="5" fill="#78dcca">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="416" y="74" fill="#78dcca" font-family="Geist Mono, Consolas, monospace" font-size="15">CODINGFENG101 / AI SYSTEMS</text>
+  <text x="414" y="126" fill="#eefbf7" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="48" font-weight="700">冯国栋</text>
+  <text x="417" y="164" fill="#b9ccc7" font-family="Geist Mono, Consolas, monospace" font-size="18">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="417" y="194" fill="#91aaa4" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">知识图谱 · AI Skill · 可编辑内容生成 · PPTX Reconstruction</text>
 </svg>
