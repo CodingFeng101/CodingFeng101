@@ -1,78 +1,92 @@
-<svg width="1200" height="724" viewBox="0 0 1200 724" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="726" viewBox="0 0 1200 726" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 150) rotate(120) scale(380 320)">
-      <stop stop-color="#2da44e" stop-opacity="0.07"/>
+    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 220) rotate(115) scale(420 360)">
+      <stop stop-color="#2da44e" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#2da44e" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="24" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="22" gradientUnits="userSpaceOnUse">
       <stop stop-color="#4ac26b"/>
       <stop offset="1" stop-color="#1a7f37"/>
     </linearGradient>
   </defs>
 
   <!-- Card surface: native GitHub light, no floating box -->
-  <rect width="1200" height="724" rx="8" fill="#ffffff"/>
-  <rect width="1200" height="724" rx="8" fill="url(#wash)"/>
+  <rect width="1200" height="726" rx="8" fill="#ffffff"/>
+  <rect width="1200" height="726" rx="8" fill="url(#wash)"/>
 
-  <!-- ===== Header ===== -->
-  <text x="84" y="124" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="56" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
-  <text x="84" y="164" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="0.6">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="84" y="204" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="19">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
+  <!-- ===== Left column: text ===== -->
+  <text x="60" y="112" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="52" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
+  <text x="60" y="152" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="0.5">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="60" y="192" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="18">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
 
-  <!-- Constellation hero -->
-  <g transform="translate(742 44)">
-    <circle cx="186" cy="96" r="118" stroke="#aceebb" stroke-opacity="0.55" fill="none"/>
-
-    <!-- edges -->
-    <g stroke="#4ac26b" stroke-opacity="0.6" stroke-width="1.4">
-      <path d="M70 130 L140 70"/>
-      <path d="M140 70 L210 110"/>
-      <path d="M210 110 L300 56"/>
-      <path d="M210 110 L280 156"/>
-      <path d="M210 110 L150 178"/>
-      <path d="M300 56 L350 128"/>
-      <path d="M140 70 L96 40"/>
-      <path d="M350 128 L370 70"/>
-    </g>
-
-    <!-- nodes -->
-    <circle cx="210" cy="110" r="10" fill="#1a7f37"/>
-    <circle cx="140" cy="70" r="8" fill="#2da44e"/>
-    <circle cx="300" cy="56" r="7" fill="#2da44e"/>
-    <circle cx="350" cy="128" r="7" fill="#4ac26b"/>
-    <circle cx="280" cy="156" r="6" fill="#4ac26b"/>
-    <circle cx="150" cy="178" r="5" fill="#6fdd8b"/>
-    <circle cx="70" cy="130" r="6" fill="#6fdd8b"/>
-    <circle cx="96" cy="40" r="5" fill="#aceebb"/>
-    <circle cx="370" cy="70" r="4" fill="#aceebb"/>
-  </g>
-
-  <!-- ===== About ===== -->
-  <g transform="translate(84 256)">
+  <g transform="translate(60 224)">
     <rect x="0" y="0" width="6" height="22" rx="3" fill="url(#accentBar)"/>
     <text x="22" y="18" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700">关于我</text>
     <text x="96" y="18" fill="#818b98" font-family="'Geist','Outfit','Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">ABOUT</text>
 
-    <text x="0" y="56" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17.5">计算机科学与技术本科生，关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
+    <text x="0" y="54" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17">计算机科学与技术本科生，关注 AI 应用开发、知识图谱、</text>
+    <text x="0" y="82" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17">智能体、AI Skill 与可编辑内容生成。</text>
 
     <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="16.5" fill="#424a53">
-      <path d="M0 92 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="22" y="98">可检索、可推理的知识结构</text>
-      <path d="M0 124 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="22" y="130">真正可编辑、可复用的 PPT</text>
-      <path d="M540 92 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="564" y="98">任务流程封装</text>
-      <path d="M540 124 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="564" y="130">真实可用的 AI 工具</text>
+      <path d="M0 120 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="22" y="126">可检索、可推理的知识结构</text>
+      <path d="M0 152 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="22" y="158">真正可编辑、可复用的 PPT</text>
+      <path d="M330 120 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="352" y="126">任务流程封装</text>
+      <path d="M330 152 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="352" y="158">真实可用的 AI 工具</text>
     </g>
   </g>
 
-  <!-- ===== Feature panels (flat, GitHub-native) ===== -->
-  <rect x="84" y="420" width="484" height="192" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="632" y="420" width="484" height="192" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <!-- ===== Right column: knowledge-graph hero (fills right side) ===== -->
+  <g transform="translate(700 60)">
+    <circle cx="220" cy="160" r="168" stroke="#aceebb" stroke-opacity="0.45" fill="none"/>
+
+    <!-- edges -->
+    <g stroke="#4ac26b" stroke-opacity="0.55" stroke-width="1.5">
+      <path d="M220 160 L90 70"/>
+      <path d="M220 160 L130 150"/>
+      <path d="M220 160 L300 110"/>
+      <path d="M220 160 L350 60"/>
+      <path d="M220 160 L400 180"/>
+      <path d="M220 160 L300 300"/>
+      <path d="M220 160 L240 250"/>
+      <path d="M220 160 L120 260"/>
+      <path d="M220 160 L40 170"/>
+      <path d="M90 70 L210 40"/>
+      <path d="M300 110 L350 60"/>
+      <path d="M350 60 L420 90"/>
+      <path d="M400 180 L360 290"/>
+      <path d="M300 300 L360 290"/>
+      <path d="M120 260 L60 320"/>
+      <path d="M40 170 L120 260"/>
+      <path d="M300 110 L210 40"/>
+    </g>
+
+    <!-- nodes -->
+    <circle cx="220" cy="160" r="12" fill="#1a7f37"/>
+    <circle cx="90" cy="70" r="8" fill="#2da44e"/>
+    <circle cx="350" cy="60" r="7" fill="#2da44e"/>
+    <circle cx="400" cy="180" r="8" fill="#2da44e"/>
+    <circle cx="130" cy="150" r="6" fill="#2da44e"/>
+    <circle cx="300" cy="110" r="6" fill="#4ac26b"/>
+    <circle cx="300" cy="300" r="6" fill="#4ac26b"/>
+    <circle cx="120" cy="260" r="7" fill="#4ac26b"/>
+    <circle cx="40" cy="170" r="6" fill="#4ac26b"/>
+    <circle cx="240" cy="250" r="5" fill="#6fdd8b"/>
+    <circle cx="210" cy="40" r="6" fill="#6fdd8b"/>
+    <circle cx="360" cy="290" r="5" fill="#6fdd8b"/>
+    <circle cx="420" cy="90" r="4" fill="#aceebb"/>
+    <circle cx="60" cy="320" r="4" fill="#aceebb"/>
+  </g>
+
+  <!-- ===== Feature panels (flat, GitHub-native, full width) ===== -->
+  <rect x="60" y="424" width="512" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="628" y="424" width="512" height="190" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
 
   <!-- panel left: Knowledge Systems -->
-  <g transform="translate(116 420)">
+  <g transform="translate(92 424)">
     <g transform="translate(0 28)">
       <rect x="0" y="0" width="36" height="36" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
       <path d="M10 11 H26 M10 18 H26 M14 25 H22" stroke="#1a7f37" stroke-width="1.9" stroke-linecap="round"/>
@@ -83,13 +97,13 @@
       <circle cx="4" cy="102" r="2.8" fill="#2da44e"/><text x="22" y="107">知识图谱构建</text>
       <circle cx="4" cy="132" r="2.8" fill="#2da44e"/><text x="22" y="137">图谱增强问答</text>
       <circle cx="4" cy="162" r="2.8" fill="#2da44e"/><text x="22" y="167">实体关系组织</text>
-      <circle cx="238" cy="102" r="2.8" fill="#2da44e"/><text x="256" y="107">Human-LLM 协同</text>
-      <circle cx="238" cy="132" r="2.8" fill="#2da44e"/><text x="256" y="137">可推理知识建模</text>
+      <circle cx="248" cy="102" r="2.8" fill="#2da44e"/><text x="266" y="107">Human-LLM 协同</text>
+      <circle cx="248" cy="132" r="2.8" fill="#2da44e"/><text x="266" y="137">可推理知识建模</text>
     </g>
   </g>
 
   <!-- panel right: Creative Systems -->
-  <g transform="translate(664 420)">
+  <g transform="translate(660 424)">
     <g transform="translate(0 28)">
       <rect x="0" y="0" width="36" height="36" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
       <path d="M18 8 L26 13 V22 L18 27 L10 22 V13 Z" stroke="#1a7f37" stroke-width="1.8" fill="none"/>
@@ -101,20 +115,20 @@
       <circle cx="4" cy="102" r="2.8" fill="#2da44e"/><text x="22" y="107">PPT 与文档内容重建</text>
       <circle cx="4" cy="132" r="2.8" fill="#2da44e"/><text x="22" y="137">可编辑 PowerPoint 生成</text>
       <circle cx="4" cy="162" r="2.8" fill="#2da44e"/><text x="22" y="167">多画布 AI 创作</text>
-      <circle cx="258" cy="102" r="2.8" fill="#2da44e"/><text x="276" y="107">AI Skill 任务封装</text>
-      <circle cx="258" cy="132" r="2.8" fill="#2da44e"/><text x="276" y="137">工作流自动化</text>
+      <circle cx="268" cy="102" r="2.8" fill="#2da44e"/><text x="286" y="107">AI Skill 任务封装</text>
+      <circle cx="268" cy="132" r="2.8" fill="#2da44e"/><text x="286" y="137">工作流自动化</text>
     </g>
   </g>
 
-  <!-- ===== Footer ===== -->
-  <g transform="translate(84 644)">
-    <path d="M0 0 H1032" stroke="#d0d7de"/>
+  <!-- ===== Footer (full width) ===== -->
+  <g transform="translate(60 644)">
+    <path d="M0 0 H1080" stroke="#d0d7de"/>
     <rect x="0" y="18" width="6" height="16" rx="3" fill="#2da44e"/>
     <text x="22" y="31" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">研究 · 背景</text>
     <text x="122" y="31" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15">TKDE 在投：Human-LLM 协同领域知识图谱构建　·　授权发明专利：知识图谱搜索方法及系统</text>
 
-    <rect x="0" y="52" width="6" height="16" rx="3" fill="#2da44e"/>
-    <text x="22" y="65" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">技术栈</text>
-    <text x="122" y="65" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
+    <rect x="0" y="50" width="6" height="16" rx="3" fill="#2da44e"/>
+    <text x="22" y="63" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">技术栈</text>
+    <text x="122" y="63" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
   </g>
 </svg>
