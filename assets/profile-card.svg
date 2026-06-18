@@ -1,4 +1,4 @@
-<svg width="1200" height="726" viewBox="0 0 1200 726" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="732" viewBox="0 0 1200 732" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 220) rotate(115) scale(420 360)">
       <stop stop-color="#2da44e" stop-opacity="0.08"/>
@@ -11,13 +11,13 @@
   </defs>
 
   <!-- Card surface: native GitHub light, no floating box -->
-  <rect width="1200" height="726" rx="8" fill="#ffffff"/>
-  <rect width="1200" height="726" rx="8" fill="url(#wash)"/>
+  <rect width="1200" height="732" rx="8" fill="#ffffff"/>
+  <rect width="1200" height="732" rx="8" fill="url(#wash)"/>
 
   <!-- ===== Left column: text ===== -->
   <text x="60" y="112" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="52" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
   <text x="60" y="152" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="0.5">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="60" y="192" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="18">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
+  <text x="60" y="194" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="20">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
 
   <g transform="translate(60 224)">
     <rect x="0" y="0" width="6" height="22" rx="3" fill="url(#accentBar)"/>
@@ -121,14 +121,14 @@
   </g>
 
   <!-- ===== Footer (full width) ===== -->
-  <g transform="translate(60 644)">
+  <g transform="translate(60 642)">
     <path d="M0 0 H1080" stroke="#d0d7de"/>
-    <rect x="0" y="18" width="6" height="16" rx="3" fill="#2da44e"/>
-    <text x="22" y="31" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">研究 · 背景</text>
-    <text x="122" y="31" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15">TKDE 在投：Human-LLM 协同领域知识图谱构建　·　授权发明专利：知识图谱搜索方法及系统</text>
+    <rect x="0" y="19" width="6" height="18" rx="3" fill="#2da44e"/>
+    <text x="22" y="33" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17" font-weight="700">研究 · 背景</text>
+    <text x="128" y="33" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="16">TKDE 在投：Human-LLM 协同领域知识图谱构建　·　授权发明专利：知识图谱搜索方法及系统</text>
 
-    <rect x="0" y="50" width="6" height="16" rx="3" fill="#2da44e"/>
-    <text x="22" y="63" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">技术栈</text>
-    <text x="122" y="63" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
+    <rect x="0" y="55" width="6" height="18" rx="3" fill="#2da44e"/>
+    <text x="22" y="69" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17" font-weight="700">技术栈</text>
+    <text x="128" y="69" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="15.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
   </g>
 </svg>
