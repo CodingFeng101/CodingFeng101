@@ -1,10 +1,10 @@
 <svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 150) rotate(120) scale(380 320)">
+    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 160) rotate(120) scale(380 320)">
       <stop stop-color="#2da44e" stop-opacity="0.07"/>
       <stop offset="1" stop-color="#2da44e" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="22" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accentBar" x1="0" y1="0" x2="0" y2="24" gradientUnits="userSpaceOnUse">
       <stop stop-color="#4ac26b"/>
       <stop offset="1" stop-color="#1a7f37"/>
     </linearGradient>
@@ -15,17 +15,12 @@
   <rect width="1200" height="800" rx="8" fill="url(#wash)"/>
 
   <!-- ===== Header ===== -->
-  <g font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace">
-    <circle cx="90" cy="80" r="4" fill="#2da44e"/>
-    <text x="106" y="85" fill="#1a7f37" font-size="14" letter-spacing="2.5">CodingFeng101 / README.md</text>
-  </g>
-
-  <text x="84" y="166" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="48" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
-  <text x="84" y="210" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="0.6">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="84" y="252" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="18">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
+  <text x="84" y="158" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="58" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
+  <text x="84" y="208" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="0.6">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="84" y="254" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="20">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
 
   <!-- Constellation hero -->
-  <g transform="translate(742 60)">
+  <g transform="translate(742 56)">
     <circle cx="186" cy="96" r="118" stroke="#aceebb" stroke-opacity="0.7" fill="none"/>
     <circle cx="186" cy="96" r="78" stroke="#aceebb" stroke-opacity="0.5" fill="none"/>
 
@@ -54,74 +49,74 @@
   </g>
 
   <!-- ===== About ===== -->
-  <g transform="translate(84 312)">
-    <rect x="0" y="0" width="6" height="22" rx="3" fill="url(#accentBar)"/>
-    <text x="22" y="18" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700">关于我</text>
-    <text x="92" y="18" fill="#818b98" font-family="'Geist','Outfit','Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">ABOUT</text>
+  <g transform="translate(84 314)">
+    <rect x="0" y="0" width="6" height="24" rx="3" fill="url(#accentBar)"/>
+    <text x="24" y="20" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="24" font-weight="700">关于我</text>
+    <text x="100" y="20" fill="#818b98" font-family="'Geist','Outfit','Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">ABOUT</text>
 
-    <text x="0" y="60" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17">计算机科学与技术本科生，关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
+    <text x="0" y="64" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="18">计算机科学与技术本科生，关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
 
-    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="16" fill="#424a53">
-      <path d="M0 96 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="22" y="102">可检索、可推理的知识结构</text>
-      <path d="M0 130 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="22" y="136">真正可编辑、可复用的 PPT</text>
-      <path d="M540 96 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="562" y="102">任务流程封装</text>
-      <path d="M540 130 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
-      <text x="562" y="136">真实可用的 AI 工具</text>
+    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="17" fill="#424a53">
+      <path d="M0 100 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="24" y="106">可检索、可推理的知识结构</text>
+      <path d="M0 134 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="24" y="140">真正可编辑、可复用的 PPT</text>
+      <path d="M540 100 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="564" y="106">任务流程封装</text>
+      <path d="M540 134 l5 -5 5 5 -5 5 z" fill="#2da44e"/>
+      <text x="564" y="140">真实可用的 AI 工具</text>
     </g>
   </g>
 
   <!-- ===== Feature panels (flat, GitHub-native) ===== -->
-  <rect x="84" y="476" width="484" height="206" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="632" y="476" width="484" height="206" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="84" y="478" width="484" height="208" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="632" y="478" width="484" height="208" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
 
   <!-- panel left: Knowledge Systems -->
-  <g transform="translate(116 476)">
+  <g transform="translate(116 478)">
     <g transform="translate(0 32)">
-      <rect x="0" y="0" width="34" height="34" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
-      <path d="M9 10 H25 M9 17 H25 M13 24 H21" stroke="#1a7f37" stroke-width="1.8" stroke-linecap="round"/>
-      <text x="48" y="16" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',Arial,sans-serif" font-size="22" font-weight="700">Knowledge Systems</text>
-      <text x="48" y="40" fill="#818b98" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14">知识结构化 · 图谱增强问答 · Human-LLM 协同</text>
+      <rect x="0" y="0" width="36" height="36" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
+      <path d="M10 11 H26 M10 18 H26 M14 25 H22" stroke="#1a7f37" stroke-width="1.9" stroke-linecap="round"/>
+      <text x="50" y="17" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700">Knowledge Systems</text>
+      <text x="50" y="42" fill="#818b98" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15">知识结构化 · 图谱增强问答 · Human-LLM 协同</text>
     </g>
-    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15.5" fill="#424a53">
-      <circle cx="4" cy="106" r="2.6" fill="#2da44e"/><text x="20" y="111">知识图谱构建</text>
-      <circle cx="4" cy="134" r="2.6" fill="#2da44e"/><text x="20" y="139">图谱增强问答</text>
-      <circle cx="4" cy="162" r="2.6" fill="#2da44e"/><text x="20" y="167">实体关系组织</text>
-      <circle cx="232" cy="106" r="2.6" fill="#2da44e"/><text x="248" y="111">Human-LLM 协同</text>
-      <circle cx="232" cy="134" r="2.6" fill="#2da44e"/><text x="248" y="139">可推理知识建模</text>
+    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="16.5" fill="#424a53">
+      <circle cx="4" cy="108" r="2.8" fill="#2da44e"/><text x="22" y="113">知识图谱构建</text>
+      <circle cx="4" cy="138" r="2.8" fill="#2da44e"/><text x="22" y="143">图谱增强问答</text>
+      <circle cx="4" cy="168" r="2.8" fill="#2da44e"/><text x="22" y="173">实体关系组织</text>
+      <circle cx="238" cy="108" r="2.8" fill="#2da44e"/><text x="256" y="113">Human-LLM 协同</text>
+      <circle cx="238" cy="138" r="2.8" fill="#2da44e"/><text x="256" y="143">可推理知识建模</text>
     </g>
   </g>
 
   <!-- panel right: Creative Systems -->
-  <g transform="translate(664 476)">
+  <g transform="translate(664 478)">
     <g transform="translate(0 32)">
-      <rect x="0" y="0" width="34" height="34" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
-      <path d="M17 8 L25 13 V21 L17 26 L9 21 V13 Z" stroke="#1a7f37" stroke-width="1.7" fill="none"/>
-      <path d="M17 13 V19" stroke="#1a7f37" stroke-width="1.7" stroke-linecap="round"/>
-      <text x="48" y="16" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',Arial,sans-serif" font-size="22" font-weight="700">Creative Systems</text>
-      <text x="48" y="40" fill="#818b98" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14">PPT 可编辑化 · 多画布创作 · AI Skill 封装</text>
+      <rect x="0" y="0" width="36" height="36" rx="9" fill="#dafbe1" stroke="#4ac26b"/>
+      <path d="M18 8 L26 13 V22 L18 27 L10 22 V13 Z" stroke="#1a7f37" stroke-width="1.8" fill="none"/>
+      <path d="M18 13 V20" stroke="#1a7f37" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="50" y="17" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700">Creative Systems</text>
+      <text x="50" y="42" fill="#818b98" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15">PPT 可编辑化 · 多画布创作 · AI Skill 封装</text>
     </g>
-    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15.5" fill="#424a53">
-      <circle cx="4" cy="106" r="2.6" fill="#2da44e"/><text x="20" y="111">PPT 与文档内容重建</text>
-      <circle cx="4" cy="134" r="2.6" fill="#2da44e"/><text x="20" y="139">可编辑 PowerPoint 生成</text>
-      <circle cx="4" cy="162" r="2.6" fill="#2da44e"/><text x="20" y="167">多画布 AI 创作</text>
-      <circle cx="252" cy="106" r="2.6" fill="#2da44e"/><text x="268" y="111">AI Skill 任务封装</text>
-      <circle cx="252" cy="134" r="2.6" fill="#2da44e"/><text x="268" y="139">工作流自动化</text>
+    <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="16.5" fill="#424a53">
+      <circle cx="4" cy="108" r="2.8" fill="#2da44e"/><text x="22" y="113">PPT 与文档内容重建</text>
+      <circle cx="4" cy="138" r="2.8" fill="#2da44e"/><text x="22" y="143">可编辑 PowerPoint 生成</text>
+      <circle cx="4" cy="168" r="2.8" fill="#2da44e"/><text x="22" y="173">多画布 AI 创作</text>
+      <circle cx="258" cy="108" r="2.8" fill="#2da44e"/><text x="276" y="113">AI Skill 任务封装</text>
+      <circle cx="258" cy="138" r="2.8" fill="#2da44e"/><text x="276" y="143">工作流自动化</text>
     </g>
   </g>
 
   <!-- ===== Footer ===== -->
-  <g transform="translate(84 724)">
+  <g transform="translate(84 728)">
     <path d="M0 0 H1032" stroke="#d0d7de"/>
     <rect x="0" y="20" width="6" height="16" rx="3" fill="#2da44e"/>
-    <text x="20" y="33" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" font-weight="700">研究 · 背景</text>
-    <text x="116" y="33" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14">TKDE 在投：Human-LLM 协同领域知识图谱构建　·　授权发明专利：知识图谱搜索方法及系统</text>
+    <text x="22" y="33" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">研究 · 背景</text>
+    <text x="122" y="33" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15">TKDE 在投：Human-LLM 协同领域知识图谱构建　·　授权发明专利：知识图谱搜索方法及系统</text>
   </g>
-  <g transform="translate(84 768)">
+  <g transform="translate(84 770)">
     <rect x="0" y="-6" width="6" height="16" rx="3" fill="#2da44e"/>
-    <text x="20" y="7" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="14" font-weight="700">技术栈</text>
-    <text x="116" y="7" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="13.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
+    <text x="22" y="7" fill="#1a7f37" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="15" font-weight="700">技术栈</text>
+    <text x="122" y="7" fill="#59636e" font-family="'Geist Mono','JetBrains Mono','SF Mono',Consolas,monospace" font-size="14.5" letter-spacing="0.3">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
   </g>
 </svg>
