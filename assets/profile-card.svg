@@ -23,9 +23,9 @@
 
   <text x="84" y="88" fill="#57606a" font-family="Geist Mono, Consolas, monospace" font-size="14">CodingFeng101 / README.md</text>
 
-  <text x="84" y="164" fill="url(#title)" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="50" font-weight="800">Hi, I am Feng Guodong</text>
+  <text x="84" y="164" fill="url(#title)" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="50" font-weight="800">你好，我是冯国栋</text>
   <text x="84" y="210" fill="#6c3cc9" font-family="Geist Mono, Consolas, monospace" font-size="18">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="84" y="252" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="18">I build AI tools that turn knowledge, content, and ideas into structured, editable, usable systems.</text>
+  <text x="84" y="252" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
 
   <g transform="translate(818 82)">
     <ellipse cx="178" cy="96" rx="120" ry="86" fill="url(#blob)"/>
@@ -46,17 +46,17 @@
       <rect x="0" y="-22" width="24" height="24" rx="7" fill="#f5f0ff" stroke="#7c4fd7"/>
       <path d="M12 -16C8.6 -16 6 -13.4 6 -10C6 -6.6 8.6 -4 12 -4C15.4 -4 18 -6.6 18 -10C18 -13.4 15.4 -16 12 -16Z" stroke="#6c3cc9" stroke-width="1.5"/>
       <path d="M5 2C6.5 -1.2 8.8 -2.8 12 -2.8C15.2 -2.8 17.5 -1.2 19 2" stroke="#6c3cc9" stroke-width="1.5" stroke-linecap="round"/>
-      <text x="42" y="-2" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="24" font-weight="700">About</text>
-      <text x="0" y="44" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="17">Computer Science undergraduate focused on AI application development, knowledge graphs,</text>
-      <text x="0" y="72" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="17">agents, AI Skills, and editable content generation.</text>
+      <text x="42" y="-2" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="24" font-weight="700">关于我</text>
+      <text x="0" y="44" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">计算机科学与技术本科生，关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
+      <text x="0" y="72" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">相比单纯调用模型，我更关注把模型能力封装进具体任务流程。</text>
       <circle cx="9" cy="91" r="3" fill="#24292f"/>
       <circle cx="9" cy="132" r="3" fill="#24292f"/>
       <circle cx="560" cy="91" r="3" fill="#24292f"/>
       <circle cx="560" cy="132" r="3" fill="#24292f"/>
-      <text x="32" y="97" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Searchable and reasonable knowledge structures</text>
-      <text x="32" y="138" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Editable, reusable PowerPoint outputs</text>
-      <text x="583" y="97" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Task workflows packaged as AI tools</text>
-      <text x="583" y="138" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Practical systems for real scenarios</text>
+      <text x="32" y="97" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">可检索、可推理的知识结构</text>
+      <text x="32" y="138" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">真正可编辑、可复用的 PPT</text>
+      <text x="583" y="97" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">任务流程封装</text>
+      <text x="583" y="138" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">真实可用的 AI 工具</text>
     </g>
   </g>
 
@@ -68,12 +68,12 @@
       <rect x="0" y="-22" width="24" height="24" rx="7" fill="#f5f0ff" stroke="#7c4fd7"/>
       <path d="M6 -10H18M6 -4H18M9 -16H15" stroke="#6c3cc9" stroke-width="1.6" stroke-linecap="round"/>
       <text x="42" y="-2" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="23" font-weight="700">Knowledge Systems</text>
-      <text x="0" y="42" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Structured knowledge, graph-enhanced QA,</text>
-      <text x="0" y="68" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">and Human-LLM knowledge modeling.</text>
-      <text x="0" y="112" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Knowledge graph construction</text>
-      <text x="0" y="144" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Graph-enhanced question answering</text>
-      <text x="0" y="176" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Entity and relation organization</text>
-      <text x="0" y="208" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Human-LLM collaborative modeling</text>
+      <text x="0" y="42" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">知识结构化、图谱增强问答，</text>
+      <text x="0" y="68" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">Human-LLM 协同知识建模。</text>
+      <text x="0" y="112" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 知识图谱构建</text>
+      <text x="0" y="144" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 图谱增强问答</text>
+      <text x="0" y="176" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 实体关系组织</text>
+      <text x="0" y="208" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• Human-LLM 协同知识建模</text>
     </g>
 
     <g transform="translate(574 58)">
@@ -81,19 +81,19 @@
       <path d="M12 -17L18 -13.5V-6.5L12 -3L6 -6.5V-13.5L12 -17Z" stroke="#6c3cc9" stroke-width="1.6"/>
       <path d="M12 -13V-7" stroke="#6c3cc9" stroke-width="1.6" stroke-linecap="round"/>
       <text x="42" y="-2" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="23" font-weight="700">Creative Systems</text>
-      <text x="0" y="42" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Editable PPT generation, multi-canvas creation,</text>
-      <text x="0" y="68" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">and AI Skill packaging.</text>
-      <text x="0" y="112" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Slide and document reconstruction</text>
-      <text x="0" y="144" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Editable PowerPoint generation</text>
-      <text x="0" y="176" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Multi-canvas AI creation</text>
-      <text x="0" y="208" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• AI Skill task packaging</text>
+      <text x="0" y="42" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">PPT 可编辑化、多画布创作，</text>
+      <text x="0" y="68" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">AI Skill 任务封装。</text>
+      <text x="0" y="112" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• PPT 与文档内容重建</text>
+      <text x="0" y="144" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 可编辑 PowerPoint 生成</text>
+      <text x="0" y="176" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 多画布 AI 创作</text>
+      <text x="0" y="208" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• AI Skill 任务封装</text>
     </g>
   </g>
 
   <g transform="translate(84 804)">
     <path d="M0 0H1032" stroke="#d8dee4"/>
     <text x="0" y="30" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="15" font-weight="700">Research</text>
-    <text x="92" y="30" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="13.5">TKDE under review: Human-LLM collaborative domain knowledge graph construction · Authorized invention patent on knowledge graph search</text>
+    <text x="92" y="30" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5">TKDE 在投：Human-LLM 协同领域知识图谱构建 · 授权发明专利：知识图谱搜索方法及系统</text>
     <text x="0" y="54" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="15" font-weight="700">Stack</text>
     <text x="92" y="54" fill="#24292f" font-family="Geist Mono, Consolas, monospace" font-size="13.5">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
   </g>
