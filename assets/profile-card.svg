@@ -1,0 +1,97 @@
+<svg width="1200" height="920" viewBox="0 0 1200 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="name" x1="82" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0.54" stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#6d3fd3"/>
+      <stop offset="1" stop-color="#8057df"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 155) rotate(90) scale(92 128)">
+      <stop stop-color="#8b5cf6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="panelShadow" x="-4%" y="-4%" width="108%" height="110%">
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#111827" flood-opacity="0.07"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="920" rx="18" fill="#ffffff"/>
+  <rect x="1" y="1" width="1198" height="918" rx="18" stroke="#d8dee4"/>
+
+  <g filter="url(#panelShadow)">
+    <rect x="46" y="46" width="1108" height="828" rx="18" fill="#ffffff"/>
+  </g>
+
+  <text x="84" y="92" fill="#57606a" font-family="Geist Mono, Consolas, monospace" font-size="14">CodingFeng101 / README.md</text>
+
+  <text x="84" y="168" fill="url(#name)" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="52" font-weight="800">你好，我是冯国栋</text>
+  <text x="84" y="216" fill="#6d3fd3" font-family="Geist Mono, Consolas, monospace" font-size="19">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="84" y="260" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="19">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
+
+  <g transform="translate(800 76)">
+    <ellipse cx="190" cy="102" rx="118" ry="86" fill="url(#nodeGlow)"/>
+    <path d="M18 138C70 104 103 151 145 105C184 62 211 28 260 72C292 98 313 58 342 52" stroke="#b79af7" stroke-width="2.2" fill="none"/>
+    <circle cx="145" cy="105" r="7" fill="#8b5cf6" fill-opacity="0.82"/>
+    <circle cx="184" cy="62" r="8" fill="#8b5cf6" fill-opacity="0.74"/>
+    <circle cx="260" cy="72" r="7" fill="#8b5cf6" fill-opacity="0.72"/>
+    <circle cx="342" cy="52" r="7" fill="#8b5cf6" fill-opacity="0.42"/>
+    <circle cx="211" cy="28" r="9" fill="#8b5cf6" fill-opacity="0.48"/>
+    <circle cx="222" cy="126" r="6" fill="#8b5cf6" fill-opacity="0.34"/>
+    <path d="M184 62L222 126L260 72" stroke="#b79af7" stroke-width="1.5"/>
+    <circle cx="18" cy="138" r="4" fill="#8b5cf6" fill-opacity="0.25"/>
+  </g>
+
+  <g transform="translate(84 322)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <rect x="0" y="36" width="26" height="26" rx="7" fill="#f6f0ff" stroke="#7c4fd7"/>
+    <path d="M13 42C9.7 42 7.4 44.4 7.4 47.7C7.4 51 9.7 53.4 13 53.4C16.3 53.4 18.6 51 18.6 47.7C18.6 44.4 16.3 42 13 42Z" stroke="#6d3fd3" stroke-width="1.5"/>
+    <path d="M6.8 62C8.2 58.9 10.3 57.4 13 57.4C15.7 57.4 17.8 58.9 19.2 62" stroke="#6d3fd3" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="44" y="58" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="25" font-weight="700">关于我</text>
+    <text x="0" y="108" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18">计算机科学与技术本科生，主要关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
+    <circle cx="10" cy="154" r="3.2" fill="#24292f"/>
+    <circle cx="10" cy="194" r="3.2" fill="#24292f"/>
+    <circle cx="555" cy="154" r="3.2" fill="#24292f"/>
+    <circle cx="555" cy="194" r="3.2" fill="#24292f"/>
+    <text x="34" y="161" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">可检索、可推理的知识结构</text>
+    <text x="34" y="201" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">真正可编辑、可复用的 PPT</text>
+    <text x="581" y="161" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">任务流程封装</text>
+    <text x="581" y="201" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">真实可用的 AI 工具</text>
+  </g>
+
+  <g transform="translate(84 560)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <path d="M516 58V236" stroke="#d8dee4"/>
+
+    <g transform="translate(0 58)">
+      <rect x="0" y="-23" width="26" height="26" rx="7" fill="#f6f0ff" stroke="#7c4fd7"/>
+      <path d="M7 -12H19M7 -5H19M10 -18H16" stroke="#6d3fd3" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="44" y="-1" fill="#6d3fd3" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="24" font-weight="700">Knowledge Systems</text>
+      <text x="0" y="48" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">知识结构化、图谱增强问答，</text>
+      <text x="0" y="80" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">Human-LLM 协同知识建模。</text>
+      <text x="0" y="128" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• 知识图谱构建</text>
+      <text x="0" y="162" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• 图谱增强问答</text>
+      <text x="0" y="196" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• 实体关系组织</text>
+      <text x="0" y="230" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• Human-LLM 协同知识建模</text>
+    </g>
+
+    <g transform="translate(584 58)">
+      <rect x="0" y="-23" width="26" height="26" rx="7" fill="#f6f0ff" stroke="#7c4fd7"/>
+      <path d="M13 -18L19 -14.5V-7.5L13 -4L7 -7.5V-14.5L13 -18Z" stroke="#6d3fd3" stroke-width="1.6"/>
+      <path d="M13 -14V-8" stroke="#6d3fd3" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="44" y="-1" fill="#6d3fd3" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="24" font-weight="700">Creative Systems</text>
+      <text x="0" y="48" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">PPT 可编辑化、多画布创作，</text>
+      <text x="0" y="80" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">AI Skill 任务封装。</text>
+      <text x="0" y="128" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• PPT 与文档内容重建</text>
+      <text x="0" y="162" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• 可编辑 PowerPoint 生成</text>
+      <text x="0" y="196" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• 多画布 AI 创作</text>
+      <text x="0" y="230" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">• AI Skill 任务封装</text>
+    </g>
+  </g>
+
+  <g transform="translate(84 832)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <text x="0" y="34" fill="#6d3fd3" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17" font-weight="700">研究与背景</text>
+    <text x="122" y="34" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15.5">TKDE 在投：Human-LLM 协同领域知识图谱构建 · 授权发明专利：知识图谱搜索方法及系统</text>
+    <text x="0" y="66" fill="#6d3fd3" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17" font-weight="700">技术栈</text>
+    <text x="122" y="66" fill="#24292f" font-family="Geist Mono, Consolas, monospace" font-size="15">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
+  </g>
+</svg>
