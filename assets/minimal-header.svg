@@ -1,6 +1,6 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
       <stop stop-color="#f8faf9"/>
       <stop offset="1" stop-color="#eef4f1"/>
     </linearGradient>
@@ -11,14 +11,13 @@
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="218" rx="24" fill="url(#bg)" stroke="#dbe5e1"/>
-  <path d="M96 156C220 116 318 160 438 122C568 80 662 84 782 118C910 154 1002 126 1104 74" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="101" cy="156" r="5" fill="#2f6f8f"/>
-  <circle cx="438" cy="122" r="5" fill="#2f6f8f"/>
-  <circle cx="782" cy="118" r="5" fill="#496f5d"/>
-  <circle cx="1104" cy="74" r="5" fill="#b45f44"/>
+  <rect x="1" y="1" width="1198" height="148" rx="20" fill="url(#bg)" stroke="#dbe5e1"/>
+  <path d="M710 104C808 68 888 116 984 82C1034 64 1076 48 1120 34" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="710" cy="104" r="4" fill="#2f6f8f"/>
+  <circle cx="984" cy="82" r="4" fill="#496f5d"/>
+  <circle cx="1120" cy="34" r="4" fill="#b45f44"/>
 
-  <text x="72" y="82" fill="#162126" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="40" font-weight="700">冯国栋</text>
-  <text x="73" y="122" fill="#49605a" font-family="Geist Mono, Consolas, monospace" font-size="18">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="73" y="154" fill="#60706b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18">知识图谱 · AI Skill · 可编辑内容生成 · 创作系统</text>
+  <text x="64" y="62" fill="#162126" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="34" font-weight="700">冯国栋</text>
+  <text x="65" y="98" fill="#49605a" font-family="Geist Mono, Consolas, monospace" font-size="17">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="65" y="124" fill="#60706b" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">知识图谱 · AI Skill · 可编辑内容生成</text>
 </svg>
