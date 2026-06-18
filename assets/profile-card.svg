@@ -1,97 +1,97 @@
-<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="title" x1="250" y1="0" x2="475" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0.55" stop-color="#111827"/>
-      <stop offset="0.56" stop-color="#6c3cc9"/>
+    <linearGradient id="title" x1="84" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0.62" stop-color="#111827"/>
+      <stop offset="0.63" stop-color="#6c3cc9"/>
       <stop offset="1" stop-color="#7c4fd7"/>
     </linearGradient>
-    <radialGradient id="blob" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(965 132) rotate(90) scale(78 104)">
-      <stop stop-color="#8b5cf6" stop-opacity="0.18"/>
+    <radialGradient id="blob" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 150) rotate(90) scale(88 118)">
+      <stop stop-color="#8b5cf6" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
     <filter id="cardShadow" x="-3%" y="-5%" width="106%" height="110%">
-      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#111827" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#111827" flood-opacity="0.075"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="720" rx="18" fill="#ffffff"/>
-  <rect x="1" y="1" width="1198" height="718" rx="18" stroke="#d8dee4"/>
+  <rect width="1200" height="820" rx="18" fill="#ffffff"/>
+  <rect x="1" y="1" width="1198" height="818" rx="18" stroke="#d8dee4"/>
 
   <g filter="url(#cardShadow)">
-    <rect x="34" y="34" width="1132" height="652" rx="16" fill="#ffffff"/>
+    <rect x="42" y="42" width="1116" height="736" rx="18" fill="#ffffff"/>
   </g>
 
-  <text x="66" y="74" fill="#57606a" font-family="Geist Mono, Consolas, monospace" font-size="14">CodingFeng101 / README.md</text>
+  <text x="84" y="88" fill="#57606a" font-family="Geist Mono, Consolas, monospace" font-size="14">CodingFeng101 / README.md</text>
 
-  <text x="66" y="142" fill="url(#title)" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="44" font-weight="800">你好，我是冯国栋</text>
-  <text x="66" y="184" fill="#6c3cc9" font-family="Geist Mono, Consolas, monospace" font-size="18">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="66" y="222" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
+  <text x="84" y="164" fill="url(#title)" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="50" font-weight="800">Hi, I am Feng Guodong</text>
+  <text x="84" y="210" fill="#6c3cc9" font-family="Geist Mono, Consolas, monospace" font-size="18">AI Tool Builder · Knowledge Systems · Creative Systems</text>
+  <text x="84" y="252" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="18">I build AI tools that turn knowledge, content, and ideas into structured, editable, usable systems.</text>
 
-  <g transform="translate(840 70)">
-    <ellipse cx="170" cy="84" rx="112" ry="78" fill="url(#blob)"/>
-    <path d="M16 112C62 84 86 128 124 88C158 52 182 20 226 54C255 76 278 44 304 38" stroke="#b79af7" stroke-width="2" fill="none"/>
-    <circle cx="124" cy="88" r="7" fill="#8b5cf6" fill-opacity="0.82"/>
-    <circle cx="158" cy="52" r="8" fill="#8b5cf6" fill-opacity="0.72"/>
-    <circle cx="226" cy="54" r="7" fill="#8b5cf6" fill-opacity="0.7"/>
-    <circle cx="304" cy="38" r="7" fill="#8b5cf6" fill-opacity="0.42"/>
-    <circle cx="182" cy="20" r="9" fill="#8b5cf6" fill-opacity="0.5"/>
-    <circle cx="196" cy="104" r="6" fill="#8b5cf6" fill-opacity="0.34"/>
-    <path d="M158 52L196 104L226 54" stroke="#b79af7" stroke-width="1.5"/>
-    <circle cx="16" cy="112" r="4" fill="#8b5cf6" fill-opacity="0.25"/>
+  <g transform="translate(818 82)">
+    <ellipse cx="178" cy="96" rx="120" ry="86" fill="url(#blob)"/>
+    <path d="M18 128C64 98 94 142 132 98C168 56 194 24 242 64C272 88 292 50 320 44" stroke="#b79af7" stroke-width="2" fill="none"/>
+    <circle cx="132" cy="98" r="7" fill="#8b5cf6" fill-opacity="0.82"/>
+    <circle cx="168" cy="56" r="8" fill="#8b5cf6" fill-opacity="0.72"/>
+    <circle cx="242" cy="64" r="7" fill="#8b5cf6" fill-opacity="0.7"/>
+    <circle cx="320" cy="44" r="7" fill="#8b5cf6" fill-opacity="0.42"/>
+    <circle cx="194" cy="24" r="9" fill="#8b5cf6" fill-opacity="0.5"/>
+    <circle cx="204" cy="118" r="6" fill="#8b5cf6" fill-opacity="0.34"/>
+    <path d="M168 56L204 118L242 64" stroke="#b79af7" stroke-width="1.5"/>
+    <circle cx="18" cy="128" r="4" fill="#8b5cf6" fill-opacity="0.25"/>
   </g>
 
-  <g transform="translate(66 266)">
-    <path d="M0 0H1068" stroke="#d8dee4"/>
-    <g transform="translate(0 44)">
-      <rect x="0" y="-21" width="22" height="22" rx="6" fill="#f5f0ff" stroke="#7c4fd7"/>
-      <path d="M11 -15C7.8 -15 5.5 -12.7 5.5 -9.5C5.5 -6.3 7.8 -4 11 -4C14.2 -4 16.5 -6.3 16.5 -9.5C16.5 -12.7 14.2 -15 11 -15Z" stroke="#6c3cc9" stroke-width="1.5"/>
-      <path d="M4.5 1C5.9 -2.2 8 -3.8 11 -3.8C14 -3.8 16.1 -2.2 17.5 1" stroke="#6c3cc9" stroke-width="1.5" stroke-linecap="round"/>
-      <text x="38" y="-3" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="23" font-weight="700">关于我</text>
-      <text x="0" y="38" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">计算机科学与技术本科生，主要关注 AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成。</text>
-      <circle cx="9" cy="77" r="3" fill="#24292f"/>
-      <circle cx="9" cy="109" r="3" fill="#24292f"/>
-      <circle cx="520" cy="77" r="3" fill="#24292f"/>
-      <circle cx="520" cy="109" r="3" fill="#24292f"/>
-      <text x="31" y="83" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">可检索、可推理的结构</text>
-      <text x="31" y="115" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">真正可编辑、可复用的 PPT</text>
-      <text x="542" y="83" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">任务流程封装</text>
-      <text x="542" y="115" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">真实可用的 AI 工具</text>
+  <g transform="translate(84 306)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <g transform="translate(0 54)">
+      <rect x="0" y="-22" width="24" height="24" rx="7" fill="#f5f0ff" stroke="#7c4fd7"/>
+      <path d="M12 -16C8.6 -16 6 -13.4 6 -10C6 -6.6 8.6 -4 12 -4C15.4 -4 18 -6.6 18 -10C18 -13.4 15.4 -16 12 -16Z" stroke="#6c3cc9" stroke-width="1.5"/>
+      <path d="M5 2C6.5 -1.2 8.8 -2.8 12 -2.8C15.2 -2.8 17.5 -1.2 19 2" stroke="#6c3cc9" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="42" y="-2" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="24" font-weight="700">About</text>
+      <text x="0" y="44" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="17">Computer Science undergraduate focused on AI application development, knowledge graphs, agents, AI Skills, and editable content generation.</text>
+      <circle cx="9" cy="91" r="3" fill="#24292f"/>
+      <circle cx="9" cy="128" r="3" fill="#24292f"/>
+      <circle cx="560" cy="91" r="3" fill="#24292f"/>
+      <circle cx="560" cy="128" r="3" fill="#24292f"/>
+      <text x="32" y="97" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Searchable and reasonable knowledge structures</text>
+      <text x="32" y="134" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Editable, reusable PowerPoint outputs</text>
+      <text x="583" y="97" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Task workflows packaged as AI tools</text>
+      <text x="583" y="134" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">Practical systems for real scenarios</text>
     </g>
   </g>
 
-  <g transform="translate(66 430)">
-    <path d="M0 0H1068" stroke="#d8dee4"/>
-    <path d="M534 40V194" stroke="#d8dee4"/>
+  <g transform="translate(84 502)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <path d="M516 58V214" stroke="#d8dee4"/>
 
-    <g transform="translate(0 46)">
-      <rect x="0" y="-22" width="24" height="24" rx="6" fill="#f5f0ff" stroke="#7c4fd7"/>
+    <g transform="translate(0 58)">
+      <rect x="0" y="-22" width="24" height="24" rx="7" fill="#f5f0ff" stroke="#7c4fd7"/>
       <path d="M6 -10H18M6 -4H18M9 -16H15" stroke="#6c3cc9" stroke-width="1.6" stroke-linecap="round"/>
-      <text x="42" y="-2" fill="#6c3cc9" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" font-weight="700">Knowledge Systems</text>
-      <text x="0" y="34" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">知识结构化、图谱增强问答，Human-LLM 协同建模</text>
-      <text x="0" y="76" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 知识图谱构建</text>
-      <text x="0" y="106" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 图谱增强问答</text>
-      <text x="0" y="136" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 实体关系组织</text>
-      <text x="0" y="166" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• Human-LLM 协同知识建模</text>
+      <text x="42" y="-2" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="23" font-weight="700">Knowledge Systems</text>
+      <text x="0" y="42" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="17">Structured knowledge, graph-enhanced QA, and Human-LLM knowledge modeling.</text>
+      <text x="0" y="86" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Knowledge graph construction</text>
+      <text x="0" y="118" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Graph-enhanced question answering</text>
+      <text x="0" y="150" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Entity and relation organization</text>
+      <text x="0" y="182" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Human-LLM collaborative modeling</text>
     </g>
 
-    <g transform="translate(592 46)">
-      <rect x="0" y="-22" width="24" height="24" rx="6" fill="#f5f0ff" stroke="#7c4fd7"/>
+    <g transform="translate(574 58)">
+      <rect x="0" y="-22" width="24" height="24" rx="7" fill="#f5f0ff" stroke="#7c4fd7"/>
       <path d="M12 -17L18 -13.5V-6.5L12 -3L6 -6.5V-13.5L12 -17Z" stroke="#6c3cc9" stroke-width="1.6"/>
       <path d="M12 -13V-7" stroke="#6c3cc9" stroke-width="1.6" stroke-linecap="round"/>
-      <text x="42" y="-2" fill="#6c3cc9" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="22" font-weight="700">Creative Systems</text>
-      <text x="0" y="34" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="17">PPT 可编辑化、多画布创作，AI Skill 任务封装</text>
-      <text x="0" y="76" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• PPT 与文档内容重建</text>
-      <text x="0" y="106" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 可编辑 PowerPoint 生成</text>
-      <text x="0" y="136" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• 多画布 AI 创作</text>
-      <text x="0" y="166" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16">• AI Skill 任务封装</text>
+      <text x="42" y="-2" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="23" font-weight="700">Creative Systems</text>
+      <text x="0" y="42" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="17">Editable PPT generation, multi-canvas creation, and AI Skill packaging.</text>
+      <text x="0" y="86" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Slide and document reconstruction</text>
+      <text x="0" y="118" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Editable PowerPoint generation</text>
+      <text x="0" y="150" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• Multi-canvas AI creation</text>
+      <text x="0" y="182" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16">• AI Skill task packaging</text>
     </g>
   </g>
 
-  <g transform="translate(66 650)">
-    <path d="M0 0H1068" stroke="#d8dee4"/>
-    <text x="0" y="34" fill="#6c3cc9" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16" font-weight="700">研究与背景</text>
-    <text x="118" y="34" fill="#24292f" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15">TKDE 在投：Human-LLM 协同领域知识图谱构建 · 授权发明专利：知识图谱搜索方法及系统</text>
-    <text x="0" y="62" fill="#6c3cc9" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16" font-weight="700">技术栈</text>
-    <text x="118" y="62" fill="#24292f" font-family="Geist Mono, Consolas, monospace" font-size="15">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
+  <g transform="translate(84 752)">
+    <path d="M0 0H1032" stroke="#d8dee4"/>
+    <text x="0" y="34" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16" font-weight="700">Research</text>
+    <text x="96" y="34" fill="#24292f" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="15">TKDE under review: Human-LLM collaborative domain knowledge graph construction · Authorized invention patent on knowledge graph search</text>
+    <text x="0" y="62" fill="#6c3cc9" font-family="Outfit, Satoshi, Arial, sans-serif" font-size="16" font-weight="700">Stack</text>
+    <text x="96" y="62" fill="#24292f" font-family="Geist Mono, Consolas, monospace" font-size="15">Python · TypeScript · React · Vite · FastAPI · Node.js · MySQL · Neo4j · Docker</text>
   </g>
 </svg>
