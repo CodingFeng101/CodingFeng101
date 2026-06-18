@@ -1,66 +1,92 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" alt="CodingFeng101 个人主页头图" width="100%" />
+  <img src="./assets/minimal-header.svg" alt="冯国栋 GitHub 个人介绍" width="100%" />
 </div>
 
 <br />
 
-## 你好，我是冯国栋
+# 你好，我是冯国栋
 
-我在做开源 AI 工具，重点关注 **图片型 PPT 还原、可编辑文档生成、Codex Skill 工作流**。
+### AI Tool Builder · Knowledge Systems · Creative Systems
 
-我更关心一件事：AI 生成的结果不能只停留在“看起来不错”，还要能继续编辑、复用、交付。
-
-<br />
-
-### 现在主要在做
-
-| 方向 | 说明 |
-| --- | --- |
-| **Slide Alchemy** | 把幻灯片截图、图片型 PPTX、扫描版演示文稿重建成更可编辑的 PowerPoint 文件 |
-| **CanvasAnvil** | AI 多画布创作平台，面向流程图、室内设计、演示文稿、海报、信息图和产品叙事 |
-| **Codex Skill** | 把复杂流程封装成可以复用、可以执行、可以交付的 AI 工作流 |
-
-<br />
-
-## 代表项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/CodingFeng101/slide-alchemy">
-        <img src="./assets/project-slide-alchemy.svg" alt="Slide Alchemy 项目卡片" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/CodingFeng101/CanvasAnvil">
-        <img src="./assets/project-canvas-anvil.svg" alt="CanvasAnvil 项目卡片" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 我喜欢做的东西
-
-| 图片优先的 PPT 工作流 | Codex Skills | 创作工具 |
-| --- | --- | --- |
-| 把已经渲染好的幻灯片重新变成文字、形状、图标和布局结构 | 把可重复的 AI 操作整理成真正能跑的工具链 | 为设计、文档、图表和视觉叙事做更实用的编辑系统 |
-
-<br />
-
-## 技术轨迹
+我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。
 
 <p>
-  <img src="https://img.shields.io/badge/Python-2f6f8f?style=for-the-badge&labelColor=162126" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-2f6f8f?style=for-the-badge&labelColor=162126" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PowerPoint-2f6f8f?style=for-the-badge&labelColor=162126" alt="PowerPoint" />
-  <img src="https://img.shields.io/badge/Codex_Skills-2f6f8f?style=for-the-badge&labelColor=162126" alt="Codex Skills" />
-  <img src="https://img.shields.io/badge/AI_Workflows-2f6f8f?style=for-the-badge&labelColor=162126" alt="AI Workflows" />
+  <img src="https://img.shields.io/badge/Knowledge_Graph-2f6f8f?style=flat-square&labelColor=f6f8fa" alt="Knowledge Graph" />
+  <img src="https://img.shields.io/badge/AI_Skill-2f6f8f?style=flat-square&labelColor=f6f8fa" alt="AI Skill" />
+  <img src="https://img.shields.io/badge/Editable_PPTX-2f6f8f?style=flat-square&labelColor=f6f8fa" alt="Editable PPTX" />
+  <img src="https://img.shields.io/badge/Creative_AI-2f6f8f?style=flat-square&labelColor=f6f8fa" alt="Creative AI" />
 </p>
 
-<br />
+---
 
-<div align="center">
-  <img src="./assets/activity-strip.svg" alt="当前工作动态" width="100%" />
-</div>
+## 关于我
+
+我是一名计算机科学与技术本科生，目前主要关注 **AI 应用开发、知识图谱、智能体、AI Skill 与可编辑内容生成**。
+
+相比于单纯调用模型，我更感兴趣的是：
+
+- 如何把复杂知识组织成可检索、可推理的结构
+- 如何让 AI 生成的 PPT 真正可编辑、可复用
+- 如何把大模型能力封装进具体任务流程
+- 如何构建能落地到真实场景的 AI 工具
+
+---
+
+## 我关注的两个方向
+
+### Knowledge Systems
+
+我关注知识如何被结构化、检索和推理。
+
+- 知识图谱构建
+- 图谱增强问答
+- 实体关系组织
+- Human-LLM 协同知识建模
+- 领域知识结构化与语义检索
+
+### Creative Systems
+
+我关注 AI 如何生成真正可继续编辑和使用的内容。
+
+- PPT 与文档内容重建
+- 可编辑 PowerPoint 生成
+- 多画布 AI 创作
+- AI Skill 任务封装
+- 从自然语言到可视化结果的生成流程
+
+---
+
+## 当前探索
+
+- AI Skills for document and slide reconstruction
+- Graph-enhanced question answering
+- Multi-canvas AI creation workflows
+- Human-LLM knowledge modeling
+- Editable PPTX generation and reconstruction
+
+---
+
+## 研究与背景
+
+- TKDE 在投：Human-LLM 协同的领域知识图谱构建
+- 授权发明专利：知识图谱搜索方法及系统
+- 项目方向：知识图谱平台、AI 创作平台、PPT 可编辑化重建
+- 实践经历：全栈开发、智能体开发、AI 应用开发
+
+---
+
+## 技术栈
+
+```text
+Python · TypeScript · React · Vite · FastAPI · Node.js
+MySQL · Neo4j · Docker · Git · LLM · AI Agent · AI Skill
+```
+
+---
+
+## 一句话
+
+静态内容不该永远静态，知识也不该只停留在文本里。
+
+我希望构建的 AI 工具，能够理解结构、连接知识，并交付真正可继续使用的结果。
+
