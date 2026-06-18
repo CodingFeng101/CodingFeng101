@@ -17,9 +17,8 @@
   <!-- ===== Left column: text ===== -->
   <text x="60" y="112" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="52" font-weight="800" letter-spacing="0.5">你好，我是冯国栋</text>
   <text x="60" y="152" fill="#1a7f37" font-family="'Geist','Outfit','SF Pro Display','Segoe UI',-apple-system,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="0.5">AI Tool Builder · Knowledge Systems · Creative Systems</text>
-  <text x="60" y="194" fill="#59636e" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC','Hiragino Sans',sans-serif" font-size="20">我关注如何把知识、内容和想法，变成结构化、可编辑、可使用的 AI 工具。</text>
 
-  <g transform="translate(60 224)">
+  <g transform="translate(60 208)">
     <rect x="0" y="0" width="6" height="22" rx="3" fill="url(#accentBar)"/>
     <text x="22" y="18" fill="#1f2328" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="22" font-weight="700">关于我</text>
     <text x="96" y="18" fill="#818b98" font-family="'Geist','Outfit','Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">ABOUT</text>
