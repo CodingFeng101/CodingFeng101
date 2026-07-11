@@ -32,4 +32,14 @@
 
 ✉️ Email: fengguodong972@gmail.com
 
+### 加入讨论
+
+我创建了一个群聊 **智构开源社**，欢迎对 AI 工具、知识图谱、AI Skill、PPT 可编辑化、多画布创作感兴趣的朋友一起交流。
+
+<p align="center">
+  <img src="./assets/wechat-group-zhigou-open-source.jpg" alt="智构开源社微信群二维码" width="320" />
+</p>
+
+> 二维码有效期以图片提示为准，失效后可以通过 Email 联系我更新。
+
 > 静态内容不该永远静态，知识也不该只停留在文本里。
