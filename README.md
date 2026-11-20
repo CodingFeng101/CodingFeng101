@@ -1,22 +1,30 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
-  <img alt="冯国栋 · 静态内容不该永远静态，知识也不该只停留在文本里。计算机本科生，写开源 AI 工具。" src="assets/hero-light.webp" width="100%">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-motion-dark.webp">
+  <img alt="冯国栋 · 静态内容不该永远静态，知识也不该只停留在文本里。计算机本科生，写开源 AI 工具。" src="assets/hero-motion-light.webp" width="100%">
 </picture>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/CodingFeng101/CanvasAnvil"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-canvasanvil-dark.webp">
-    <img alt="01 CanvasAnvil：把一句话，画成一张图。" src="assets/card-canvasanvil-light.webp" width="32%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-canvasanvil-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-canvasanvil-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-canvasanvil-motion-dark.webp">
+    <img alt="01 CanvasAnvil：把一句话，画成一张图。" src="assets/card-canvasanvil-motion-light.webp" width="32%">
   </picture></a>
   <a href="https://github.com/CodingFeng101/UniGraph"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-unigraph-dark.webp">
-    <img alt="02 UniGraph：让资料，长成一张图谱。" src="assets/card-unigraph-light.webp" width="32%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-unigraph-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-unigraph-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-unigraph-motion-dark.webp">
+    <img alt="02 UniGraph：让资料，长成一张图谱。" src="assets/card-unigraph-motion-light.webp" width="32%">
   </picture></a>
   <a href="https://github.com/CodingFeng101/slide-alchemy"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-slide-alchemy-dark.webp">
-    <img alt="03 slide-alchemy：让图片 PPT，重新可编辑。" src="assets/card-slide-alchemy-light.webp" width="32%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-slide-alchemy-dark.webp">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-slide-alchemy-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-slide-alchemy-motion-dark.webp">
+    <img alt="03 slide-alchemy：让图片 PPT，重新可编辑。" src="assets/card-slide-alchemy-motion-light.webp" width="32%">
   </picture></a>
 </p>
 
