@@ -7,33 +7,19 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/CodingFeng101/CanvasAnvil"><picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-canvasanvil-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-canvasanvil-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-canvasanvil-motion-dark.webp">
-    <img alt="01 CanvasAnvil：把一句话，画成一张图。" src="assets/card-canvasanvil-motion-light.webp" width="32%">
-  </picture></a>
-  <a href="https://github.com/CodingFeng101/UniGraph"><picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-unigraph-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-unigraph-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-unigraph-motion-dark.webp">
-    <img alt="02 UniGraph：让资料，长成一张图谱。" src="assets/card-unigraph-motion-light.webp" width="32%">
-  </picture></a>
-  <a href="https://github.com/CodingFeng101/slide-alchemy"><picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/card-slide-alchemy-dark.webp">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/card-slide-alchemy-light.webp">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-slide-alchemy-motion-dark.webp">
-    <img alt="03 slide-alchemy：让图片 PPT，重新可编辑。" src="assets/card-slide-alchemy-motion-light.webp" width="32%">
-  </picture></a>
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/cards-dark.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cards-light.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-motion-dark.webp">
+  <img alt="01 CanvasAnvil：把一句话，画成一张图。02 UniGraph：让资料，长成一张图谱。03 slide-alchemy：让图片 PPT，重新可编辑。" src="assets/cards-motion-light.webp" width="100%">
+</picture>
 
 <p align="center">
-  <b>CanvasAnvil</b>&nbsp; <a href="https://canvasanvil.codingfgd.asia">在线使用</a> · <a href="https://github.com/CodingFeng101/CanvasAnvil/blob/main/README.zh-CN.md#视频教程">视频教程</a>
+  <a href="https://github.com/CodingFeng101/CanvasAnvil"><b>CanvasAnvil</b></a>&nbsp; <a href="https://canvasanvil.codingfgd.asia">在线使用</a> · <a href="https://github.com/CodingFeng101/CanvasAnvil/blob/main/README.zh-CN.md#视频教程">视频教程</a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
-  <b>UniGraph</b>&nbsp; <a href="https://unigraph.jxselab.com/login">在线体验</a> · <a href="https://github.com/CodingFeng101/UniGraph#-视频教程">视频教程</a>
+  <a href="https://github.com/CodingFeng101/UniGraph"><b>UniGraph</b></a>&nbsp; <a href="https://unigraph.jxselab.com/login">在线体验</a> · <a href="https://github.com/CodingFeng101/UniGraph#-视频教程">视频教程</a>
   &nbsp;&nbsp;/&nbsp;&nbsp;
-  <b>slide-alchemy</b>&nbsp; <a href="https://github.com/CodingFeng101/slide-alchemy/blob/main/README.zh-CN.md#-演示视频">演示视频</a>
+  <a href="https://github.com/CodingFeng101/slide-alchemy"><b>slide-alchemy</b></a>&nbsp; <a href="https://github.com/CodingFeng101/slide-alchemy/blob/main/README.zh-CN.md#-演示视频">演示视频</a>
 </p>
 
 <p align="center"><sub>Python · FastAPI · Vue 3 · React · TypeScript · Agent Skills</sub></p>
